@@ -1,0 +1,23 @@
+.what-we-do{
+    padding-top: 94px;
+    padding-bottom: 87px;
+}
+.what-we-do-title{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: var(--brand-color-2);
+}
+
+.what-we-do-images{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+}
