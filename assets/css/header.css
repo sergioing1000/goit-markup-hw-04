@@ -73,6 +73,7 @@
 .phone-contact a{
     text-decoration: none;
     color: var(--brand-color-3);
+    fill: var(--brand-color-3);
 }
 
 .email-contact a:hover,
