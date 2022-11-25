@@ -82,32 +82,6 @@
     text-decoration: none;
     color: var(--brand-color-1);
     outline: none;
-}
-
-.email-contact div
-{
-    display: inline-flex;
-    width: 16px;
-    height: 12px;
-    background-image: url("/images/envelope.svg");
-    background-repeat: no-repeat;
-
-}
-.phone-contact div {
-    display: inline-flex;
-    width: 11px;
-    height: 16px;
-    background-image: url("/images/cell.svg");
-    background-repeat: no-repeat;
-}
-.email-contact div:hover
-{
-    background-image: url("/images/envelope-hover.svg");
+    fill:var(--brand-color-1);
     cursor: pointer;
-    outline: none;
-}
-.phone-contact div:hover {
-    background-image: url("/images/cell-hover.svg");
-    cursor: pointer;
-    outline: none;
 }
