@@ -89,7 +89,7 @@
     display: inline-flex;
     width: 16px;
     height: 12px;
-    background-image: url("/assets/images/envelope.svg");
+    background-image: url("/images/envelope.svg");
     background-repeat: no-repeat;
 
 }
@@ -97,17 +97,17 @@
     display: inline-flex;
     width: 11px;
     height: 16px;
-    background-image: url("/assets/images/cell.svg");
+    background-image: url("/images/cell.svg");
     background-repeat: no-repeat;
 }
 .email-contact div:hover
 {
-    background-image: url("/assets/images/envelope-hover.svg");
+    background-image: url("/images/envelope-hover.svg");
     cursor: pointer;
     outline: none;
 }
 .phone-contact div:hover {
-    background-image: url("/assets/images/cell-hover.svg");
+    background-image: url("/images/cell-hover.svg");
     cursor: pointer;
     outline: none;
 }
