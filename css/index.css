@@ -1,15 +1,16 @@
-@import "/css/minireset.min.css";
-@import "/css/fonts.css";
-@import "/css/header.css";
-@import "/css/banner.css";
-@import "/css/features.css";
-@import "/css/what-we-do.css";
-@import "/css/our-team.css";
-@import '/css/rcustomers.css';
-@import "/css/footer.css";
-@import "/css/portfolio.css";
+@import "minireset.min.css";
+@import "fonts.css";
+@import "header.css";
+@import "banner.css";
+@import "features.css";
+@import "what-we-do.css";
+@import "our-team.css";
+@import 'rcustomers.css';
+@import "footer.css";
+@import "portfolio.css";
 
-:root{
+
+:root {
     
     --brand-color-1: #2196F3;
     --brand-color-2: #212121;
