@@ -1,7 +1,7 @@
 .banner{
     height: 636px;
     background: var(--brand-color-1);
-    background: radial-gradient(circle, rgba(34, 149, 243, 0.139) 18%, rgba(37, 33, 243, 0.361) 81%), url('/images/banner.jpg');
+    background: radial-gradient(circle, rgba(34, 149, 243, 0.139) 18%, rgba(37, 33, 243, 0.361) 81%), url("/images/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
