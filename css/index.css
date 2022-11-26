@@ -1,9 +1,9 @@
 @import "/css/minireset.min.css";
 @import "/css/fonts.css";
-@import url("./css/header.css");
-@import url('./css/banner.css');
-@import url("/css/features.css");
-@import url('/css/what-we-do.css');
+@import "/css/header.css";
+@import "/css/banner.css";
+@import "/css/features.css";
+@import "/css/what-we-do.css";
 @import "/css/our-team.css";
 @import '/css/rcustomers.css';
 @import "/css/footer.css";
